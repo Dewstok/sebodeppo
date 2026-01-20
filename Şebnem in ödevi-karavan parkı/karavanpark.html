@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Driad Karavan Parkı</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background: url('background2.jpg') no-repeat center center fixed;
+            background-size: cover;
+           opacity: 20;
+            padding-top: 60px;
+        }
+        .container {
+            max-width: 600px;
+        }
+        .form-group {
+            margin-bottom: 0px;
+            
+        }
+        nav .nav-link[href="anasayfa.html"] {
+            color: orange !important;
+        }
+        nav .nav-link {
+            color: rgb(0, 199, 30) !important;
+            font-size: 18px;
+        }
+        button {
+            padding: 5px 15px;
+            border: none;
+            background-color: #f9f9f9;
+            color: rgb(57, 60, 249);
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #918c8c;
+        }
+        
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+        <a class="navbar-brand" href="#">Driad Karavan Parkı</a>
+    </nav>
+
+    <div class="container">
+        <h1 class="text-center">Karavan Parkı Üyelik Formu</h1>
+        
+        <form action="/submit" method="post">
+            <div class="form-group">
+                <label for="name">Ad Soyad:</label>
+                <input type="text" class="form-control" id="name" name="name" required>
+            </div>
+            <div class="form-group">
+                <label for="age">Yaş:</label>
+                <input type="number" class="form-control" id="age" name="age" required>
+            </div>
+            <div class="form-group">
+                <label for="phone">Telefon:</label>
+                <input type="tel" class="form-control" id="phone" name="phone" required>
+            </div>
+            <div class="form-group">
+                <label for="address">Adres:</label>
+                <textarea class="form-control" id="address" name="address" required></textarea>
+            </div>
+            <div class="form-group">
+                <label for="caravanType">Karavan Türü:</label>
+                <select class="form-control" id="caravanType" name="caravanType" required>
+                    <option value="motokaravan">Motokaravan</option>
+                    <option value="cekmeKaravan">Çekme Karavan</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="stayDuration">Konaklama Süresi (gün):</label>
+                <input type="number" class="form-control" id="stayDuration" name="stayDuration" required>
+            </div>
+            <div class="form-group">
+                <label for="peopleCount">Konaklayacak Kişi Sayısı:</label>
+                <input type="number" class="form-control" id="peopleCount" name="peopleCount" required>
+            </div>
+            <div class="form-group">
+                <label for="paymentType">Ödeme Türü:</label>
+                <select class="form-control" id="paymentType" name="paymentType" required>
+                    <option value="havale">Havale</option>
+                    <option value="krediKarti">Kredi Kartı</option>
+                </select>
+            </div>
+            <button type="submit" > <a href="basarili_kayit.html">Gönder</a></button>
+            <button type="submit"><a href="index.html" color="white">Anasayfa</a></button>
+            <button type="submit"><a href="odemesayfasi.html" color="white">Ödeme Yap</a></button>
+        </form>
+        
+    </div>
+
+<script>
+    function karavanKirala() {
+        var isim = document.getElementById('isim').value;
+        var telefon = document.getElementById('telefon').value;
+        var alan_no = document.getElementById('alan_no').value;
+        var baslangic_tarihi = document.getElementById('baslangic_tarihi').value;
+        var bitis_tarihi = document.getElementById('bitis_tarihi').value;
+
+        var data = {
+            "isim": isim,
+            "telefon": telefon,
+            "alan_no": alan_no,
+            "baslangic_tarihi": baslangic_tarihi,
+            "bitis_tarihi": bitis_tarihi
+        };
+
+        var xhr = new XMLHttpRequest();
+        xhr.open("POST", "/kiralama", true);
+        xhr.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+        xhr.onreadystatechange = function() {
+            if (xhr.readyState == 4 && xhr.status == 200) {
+                document.getElementById("sonuc").innerHTML = "Kiralama başarılı!";
+            } else {
+                document.getElementById("sonuc").innerHTML = "Kiralama başarısız!";
+            }
+        };
+        xhr.send(JSON.stringify(data));
+    }
+</script>
+
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <a class="navbar-brand" href="index.html">Driad Karavan Parkı</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item"><a class="nav-link" href="index.html">Anasayfa</a></li>
+            <li class="nav-item"><a class="nav-link" href="hakkinda.html">Hakkımızda</a></li>
+            <li class="nav-item"><a class="nav-link" href="karavanpark.html">Üyelik</a></li>
+            <li class="nav-item"><a class="nav-link" href="iletisim.html">İletişim</a></li>
+        </ul>
+    </div>
+
+</div>
+</html>
