@@ -1,0 +1,7 @@
+C:\Users\sebnem\OneDrive\Masaüstü\25.10.2024 ismek ödev\ikramiye_örnek\ikramiye_örnek\obj\Debug\ikramiye_örnek.csproj.AssemblyReference.cache
+C:\Users\sebnem\OneDrive\Masaüstü\25.10.2024 ismek ödev\ikramiye_örnek\ikramiye_örnek\obj\Debug\ikramiye_örnek.csproj.CoreCompileInputs.cache
+C:\Users\sebnem\OneDrive\Masaüstü\25.10.2024 ismek ödev\ikramiye_örnek\ikramiye_örnek\bin\Debug\ikramiye_örnek.exe.config
+C:\Users\sebnem\OneDrive\Masaüstü\25.10.2024 ismek ödev\ikramiye_örnek\ikramiye_örnek\bin\Debug\ikramiye_örnek.exe
+C:\Users\sebnem\OneDrive\Masaüstü\25.10.2024 ismek ödev\ikramiye_örnek\ikramiye_örnek\bin\Debug\ikramiye_örnek.pdb
+C:\Users\sebnem\OneDrive\Masaüstü\25.10.2024 ismek ödev\ikramiye_örnek\ikramiye_örnek\obj\Debug\ikramiye_örnek.exe
+C:\Users\sebnem\OneDrive\Masaüstü\25.10.2024 ismek ödev\ikramiye_örnek\ikramiye_örnek\obj\Debug\ikramiye_örnek.pdb
