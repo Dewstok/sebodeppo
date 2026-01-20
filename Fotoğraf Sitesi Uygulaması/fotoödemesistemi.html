@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fotoğraf Satış Sayfası</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+     a:link {color:chocolate}
+        a:visited {color:#450e02}
+        a:hover {color:blueviolet}
+        a:active {color:chartreuse}
+
+        p{font-family: 'Franklin Gothic Medium', Arial, sans-serif; font-size: 25px; color: rgb(214, 186, 241);}
+        body {
+            background-image: url('xx.jpg');
+            background-size: cover;
+            margin: 0;
+            font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+        }
+        .banner {
+            width: 100%;
+            height: 100vh;
+            background-color: rgba(150, 140, 140, 0.5);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            color: #e646ab;
+        }
+    .container {
+        width: 50%;
+        margin: auto;
+        padding: 20px;
+    }
+    h1 {
+        color: #f2ff5e;
+    }
+    p {
+        font-size: 18px;
+        color: #5b5858;
+    }
+    a {
+        display: block;
+        margin-top: 30px;
+        font-size: 20px;
+        text-decoration: none;
+        color: #ffc800;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+    .navbar {
+        width: 100%;
+        background-color: rgba(0, 0, 0, 0.7);
+        padding: 10px 0;
+    }
+    .navbar ul {
+        list-style: none;
+        padding: 0;
+        display: flex;
+        justify-content: right;
+    }
+    .navbar ul li {
+        margin: 0 15px;
+    }
+    .navbar ul li a {
+        text-decoration: none;
+        color: rgb(252, 211, 157);
+        font-size: 18px;
+        font-weight: bold;
+        
+    }
+    .navbar ul li a:hover {
+        color: #94f6c5;
+    }
+</style>
+</head>
+<body>
+    
+    <div class="navbar">
+        <ul>
+            <li><a href="index.html">ANASAYFA</a></li>
+            <li><a href="hakkinda.html">HAKKIMDA</a></li>
+            <li><a href="galeri.html">FOTOĞRAF GALERİSİ</a></li>
+            <li><a href="fotoödemesistemi.html">FOTOĞRAF SATIŞ</a></li>
+            <li><a href="iletisim.html">İLETİŞİM</a></li>
+        </ul>
+    </div>
+    <div class="container mt-4">
+        <h2 class="text-center">Fotoğraf Satış Sistemi</h2>
+        
+        
+        <div class="card mt-4">
+            <div class="card-header bg-primary text-white">Yeni Seçim</div>
+            <div class="card-body">
+                <form>
+                    <div class="mb-3">
+                        <label class="form-label">Ad Soyad</label>
+                        <input type="text" class="form-control" placeholder="Adınızı ve Soyadınızı girin">
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Telefon</label>
+                        <input type="tel" class="form-control" placeholder="Telefon numaranızı girin">
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Fotoğraf Türü</label>
+                        <select class="form-control">
+                            <option>Jpeg</option>
+                            <option>Raw</option>
+                            <option>Jpeg+Raw</option>
+                            <option>Photoshop la Düzenlenmiş</option>
+                        </select>
+                        <div class="mb-3">
+                            <label class="form-label">Fotoğraf Numarası</label>
+                            <select class="form-control">
+                                <option>F1</option>
+                                <option>F2</option>
+                                <option>F3</option>
+                                <option>F4</option>
+                                <option>F5</option>
+                                <option>F6</option>
+                                <option>F7</option>
+                                <option>F8</option>
+                                <option>F9</option>
+                                <option>F10</option>
+                                <option>F11</option>
+                                <option>F12</option>
+                                <option>F13</option>
+                                <option>F14</option>
+                                <option>F15</option>
+                                <option>F16</option>
+                                <option>F17</option>
+                                <option>F18</option>
+                                <option>F19</option>
+                                <option>F20</option>
+                                <option>F21</option>
+                                <option>F22</option>
+                                <option>F23</option>
+                                <option>F24</option>
+                                <option>F25</option>
+                            </select>
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Fotoğraf Fiyatları</label>
+                        <select class="form-control">
+                            <option>Jpeg - 1500₺/adet</option>
+                            <option>Raw - 1500₺/adet</option>
+                            <option>Jpeg+Raw - 3000₺/adet</option>
+                            <option>Düzenlenmiş - 4500₺/adet</option>
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Sipariş Tarihi</label>
+                        <input type="date" class="form-control">
+                    </div>
+                   
+                    <button type="submit" class="btn btn-success">Satın Al</button>
+                    
+                    
+                </form>
+               
+            </div>
+           
+        </div>
+        
+        <!-- Ödeme Bilgileri -->
+        <div class="card mt-4">
+            <div class="card-header bg-secondary text-white">Ödeme Sayfası</div>
+            <div class="card-body">
+                <p>Ad Soyad: .............</p>
+                <p>Telefon: +90 ..........</p>
+                <p>Fotoğraf Türü: ............</p>
+                <p>Fotoğraf Fiyatı:............</p>
+                <p>Toplam Ücret:............₺</p>
+                <h5>Ödeme Yöntemi Seçin:</h5>
+                <button class="btn btn-primary">Kredi Kartı ile Öde</button>
+                <button class="btn btn-warning">Havale ile Öde</button>
+            </div>
+        </div>
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

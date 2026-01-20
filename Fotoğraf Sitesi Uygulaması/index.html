@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>PhotoDEW-Şebnem</title>
+    <style>
+        a:link {color:chocolate}
+        a:visited {color:#450e02}
+        a:hover {color:blueviolet}
+        a:active {color:chartreuse}
+
+        p{font-family: 'Franklin Gothic Medium', Arial, sans-serif; font-size: 25px; color: rgb(214, 186, 241);}
+        body {
+            background-image: url('background.jpg');
+            background-size: cover;
+            margin: 0;
+            font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+        }
+        .banner {
+            width: 100%;
+            height: 100vh;
+            background-color: rgba(0, 0, 0, 0.5);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            color: #7bf4c9;
+        }
+        .navbar {
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: rgba(0, 0, 0, 0.7);
+        }
+        .navbar img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            padding: 50px;
+        }
+        .navbar ul {
+            list-style: none;
+            display: flex;
+            margin: 0;
+            padding: 0;
+        }
+        .navbar ul li {
+            margin: 0 10px;
+        }
+        .navbar ul li a {
+            text-decoration: none;
+            color: rgb(252, 211, 157);
+            font-size: 22px;
+            font-weight: bold;
+        }
+        .navbar ul li a:hover {
+            color: #94f6c5;
+        }
+        .content h1 {
+            font-size: 65px;
+            margin-bottom: 20px;
+            color: #c0efd8;
+        }
+        .content p {
+            font-size: 22px;
+            margin-bottom: 20px;
+            color: #d3c9c9;
+        }
+        .content button {
+            padding: 12px 24px;
+            margin: 10px;
+            border: none;
+            border-radius: 10px;
+            background-color: #7bf4c9;
+            color: rgb(157, 150, 111);
+            font-size: 20px;
+            cursor: pointer;
+        }
+        .content button:hover {
+            background-color: #0056b3;
+            color: #ffffff;
+        }
+    </style>
+</head>
+<body>
+    <div class="banner">
+        <div class="navbar">
+            <img src="1.JPG" alt="" class="logo">
+            <ul>
+                <li><a href="index.html">ANASAYFA</a></li>
+                <li><a href="hakkinda.html">HAKKINDA</a></li>
+                <li><a href="galeri.html">FOTOĞRAF GALERİSİ</a></li>
+                <li><a href="fotoödemesistemi.html">FOTOĞRAF SATIŞ</a></li>
+                <li><a href="iletisim.html">İLETİŞİM</a></li>
+            </ul>
+        </div>
+        <div class="content">
+            <h1>Fotoğraf Dünyama Hoşgeldiniz!</h1>
+            <p>Bunlar hepsi benim fotoğraflarım</p>
+            <button><a href="https://instagram.com" target="_blank">Instagram</a></button>
+            <button><a href="https://twitter.com" target="_blank">Twitter</a></button>
+        </div>
+    </div>
+</body>
+</html>

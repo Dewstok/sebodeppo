@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sipariş Formu</title>
+    <style>
+        
+        body 
+        {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            background-image: url('xx.jpg');
+            background-size: cover;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 50%;
+            margin: auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        input, textarea {
+            width: 30%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 3px solid #ccc;
+            border-radius: 5px;
+        }
+        button {
+            padding: 8px 15px;
+            border: none;
+            background-color: #007BFF;
+            color: white;
+            font-size: 18px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        a {
+            display: block;
+            margin-top: 20px;
+            font-size: 20px;
+            text-decoration: none;
+            color: #ffcc00;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Sipariş Formu</h1>
+    <form action="siparis.php" method="POST">
+        <input type="text" name="isim" placeholder="Adınız Soyadınız" required>
+        <input type="text" name="adres" placeholder="Adresiniz" required>
+        <input type="tel" name="telefon" placeholder="Telefon Numaranız" required>
+        <input type="hidden" id="selectedPhoto" name="foto" value="">
+        <label>Kaç adet istiyorsunuz?</label>
+        <select name="adet">
+            <option value="1">1 Adet</option>
+            <option value="2">2 Adet</option>
+            <option value="3">3 Adet</option>
+            <option value="4">4 Adet</option>
+            <option value="5">5 Adet</option>
+            <option value="6">6 Adet</option>
+            <option value="7">7 Adet</option>
+            <option value="8">8 Adet</option>
+            <option value="9">9 Adet</option>
+            <option value="10">10 Adet</option>
+        </select>
+        <button type="submit">Siparişi Gönder</button>
+    </form>
+
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        const photo = params.get("photo");
+        document.getElementById("selectedPhoto").value = photo;
+    </script>
+
+</body>
+</html>
