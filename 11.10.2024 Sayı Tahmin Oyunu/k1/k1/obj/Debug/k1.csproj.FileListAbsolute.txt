@@ -1,0 +1,7 @@
+C:\Users\sebnem\OneDrive\Masaüstü\11.10.2024 ismek ödev\k1\k1\bin\Debug\k1.exe.config
+C:\Users\sebnem\OneDrive\Masaüstü\11.10.2024 ismek ödev\k1\k1\bin\Debug\k1.exe
+C:\Users\sebnem\OneDrive\Masaüstü\11.10.2024 ismek ödev\k1\k1\bin\Debug\k1.pdb
+C:\Users\sebnem\OneDrive\Masaüstü\11.10.2024 ismek ödev\k1\k1\obj\Debug\k1.csproj.AssemblyReference.cache
+C:\Users\sebnem\OneDrive\Masaüstü\11.10.2024 ismek ödev\k1\k1\obj\Debug\k1.csproj.CoreCompileInputs.cache
+C:\Users\sebnem\OneDrive\Masaüstü\11.10.2024 ismek ödev\k1\k1\obj\Debug\k1.exe
+C:\Users\sebnem\OneDrive\Masaüstü\11.10.2024 ismek ödev\k1\k1\obj\Debug\k1.pdb
