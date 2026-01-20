@@ -1,0 +1,28 @@
+C:\Users\sebnem\OneDrive\Masaüstü\sebo\sebo\sebo\obj\Debug\sebo.csproj.AssemblyReference.cache
+C:\Users\sebnem\OneDrive\Masaüstü\sebo\sebo\sebo\obj\Debug\sebo.Form1.resources
+C:\Users\sebnem\OneDrive\Masaüstü\sebo\sebo\sebo\obj\Debug\sebo.Properties.Resources.resources
+C:\Users\sebnem\OneDrive\Masaüstü\sebo\sebo\sebo\obj\Debug\sebo.csproj.GenerateResource.cache
+C:\Users\sebnem\OneDrive\Masaüstü\sebo\sebo\sebo\obj\Debug\sebo.csproj.CoreCompileInputs.cache
+C:\Users\sebnem\OneDrive\Masaüstü\sebo\sebo\sebo\bin\Debug\sebo.exe.config
+C:\Users\sebnem\OneDrive\Masaüstü\sebo\sebo\sebo\bin\Debug\sebo.exe
+C:\Users\sebnem\OneDrive\Masaüstü\sebo\sebo\sebo\bin\Debug\sebo.pdb
+C:\Users\sebnem\OneDrive\Masaüstü\sebo\sebo\sebo\obj\Debug\sebo.exe
+C:\Users\sebnem\OneDrive\Masaüstü\sebo\sebo\sebo\obj\Debug\sebo.pdb
+C:\Users\sebnem\OneDrive\Masaüstü\22.11.ismek ödev\sebo\sebo\bin\Debug\sebo.exe.config
+C:\Users\sebnem\OneDrive\Masaüstü\22.11.ismek ödev\sebo\sebo\bin\Debug\sebo.exe
+C:\Users\sebnem\OneDrive\Masaüstü\22.11.ismek ödev\sebo\sebo\bin\Debug\sebo.pdb
+C:\Users\sebnem\OneDrive\Masaüstü\22.11.ismek ödev\sebo\sebo\obj\Debug\sebo.csproj.AssemblyReference.cache
+C:\Users\sebnem\OneDrive\Masaüstü\22.11.ismek ödev\sebo\sebo\obj\Debug\sebo.Form1.resources
+C:\Users\sebnem\OneDrive\Masaüstü\22.11.ismek ödev\sebo\sebo\obj\Debug\sebo.Properties.Resources.resources
+C:\Users\sebnem\OneDrive\Masaüstü\22.11.ismek ödev\sebo\sebo\obj\Debug\sebo.csproj.GenerateResource.cache
+C:\Users\sebnem\OneDrive\Masaüstü\22.11.ismek ödev\sebo\sebo\obj\Debug\sebo.csproj.CoreCompileInputs.cache
+C:\Users\sebnem\OneDrive\Masaüstü\22.11.ismek ödev\sebo\sebo\obj\Debug\sebo.exe
+C:\Users\sebnem\OneDrive\Masaüstü\22.11.ismek ödev\sebo\sebo\obj\Debug\sebo.pdb
+C:\Users\sebnem\OneDrive\Belgeler\Dew's Belgeler\İSMEK FULLSTACK DEVELOPMENT KURS ÖDEVLERİ\22.11.ismek ödev\sebo\sebo\obj\Debug\sebo.csproj.AssemblyReference.cache
+C:\Users\sebnem\OneDrive\Belgeler\Dew's Belgeler\İSMEK FULLSTACK DEVELOPMENT KURS ÖDEVLERİ\22.11.ismek ödev\sebo\sebo\obj\Debug\sebo.Form1.resources
+C:\Users\sebnem\OneDrive\Belgeler\Dew's Belgeler\İSMEK FULLSTACK DEVELOPMENT KURS ÖDEVLERİ\22.11.ismek ödev\sebo\sebo\obj\Debug\sebo.Properties.Resources.resources
+C:\Users\sebnem\OneDrive\Belgeler\Dew's Belgeler\İSMEK FULLSTACK DEVELOPMENT KURS ÖDEVLERİ\22.11.ismek ödev\sebo\sebo\obj\Debug\sebo.csproj.GenerateResource.cache
+C:\Users\sebnem\OneDrive\Belgeler\Dew's Belgeler\İSMEK FULLSTACK DEVELOPMENT KURS ÖDEVLERİ\22.11.ismek ödev\sebo\sebo\obj\Debug\sebo.csproj.CoreCompileInputs.cache
+C:\Users\sebnem\OneDrive\Belgeler\Dew's Belgeler\İSMEK FULLSTACK DEVELOPMENT KURS ÖDEVLERİ\22.11.ismek ödev\sebo\sebo\obj\Debug\sebo.exe
+C:\Users\sebnem\OneDrive\Belgeler\Dew's Belgeler\İSMEK FULLSTACK DEVELOPMENT KURS ÖDEVLERİ\22.11.ismek ödev\sebo\sebo\obj\Debug\sebo.pdb
+C:\Users\sebnem\OneDrive\Belgeler\Dew's Belgeler\İSMEK FULLSTACK DEVELOPMENT KURS ÖDEVLERİ\22.11.ismek ödev\sebo\sebo\obj\Debug\sebo.exe.config
