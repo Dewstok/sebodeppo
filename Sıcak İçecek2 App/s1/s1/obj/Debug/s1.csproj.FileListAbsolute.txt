@@ -1,0 +1,44 @@
+C:\Users\sebnem\OneDrive\Masaüstü\sebo deneme\s1\s1\bin\Debug\s1.exe.config
+C:\Users\sebnem\OneDrive\Masaüstü\sebo deneme\s1\s1\bin\Debug\s1.exe
+C:\Users\sebnem\OneDrive\Masaüstü\sebo deneme\s1\s1\bin\Debug\s1.pdb
+C:\Users\sebnem\OneDrive\Masaüstü\sebo deneme\s1\s1\obj\Debug\s1.csproj.AssemblyReference.cache
+C:\Users\sebnem\OneDrive\Masaüstü\sebo deneme\s1\s1\obj\Debug\s1.Form1.resources
+C:\Users\sebnem\OneDrive\Masaüstü\sebo deneme\s1\s1\obj\Debug\s1.Properties.Resources.resources
+C:\Users\sebnem\OneDrive\Masaüstü\sebo deneme\s1\s1\obj\Debug\s1.csproj.GenerateResource.cache
+C:\Users\sebnem\OneDrive\Masaüstü\sebo deneme\s1\s1\obj\Debug\s1.csproj.CoreCompileInputs.cache
+C:\Users\sebnem\OneDrive\Masaüstü\sebo deneme\s1\s1\obj\Debug\s1.exe
+C:\Users\sebnem\OneDrive\Masaüstü\sebo deneme\s1\s1\obj\Debug\s1.pdb
+C:\Users\sebnem\OneDrive\Masaüstü\sebo deneme\s1\s1\obj\Debug\s1.Form2.resources
+C:\Users\adem\Desktop\sebo deneme\s1\s1\obj\Debug\s1.csproj.AssemblyReference.cache
+C:\Users\adem\Desktop\sebo deneme\s1\s1\obj\Debug\s1.Form1.resources
+C:\Users\adem\Desktop\sebo deneme\s1\s1\obj\Debug\s1.Form2.resources
+C:\Users\adem\Desktop\sebo deneme\s1\s1\obj\Debug\s1.Properties.Resources.resources
+C:\Users\adem\Desktop\sebo deneme\s1\s1\obj\Debug\s1.csproj.GenerateResource.cache
+C:\Users\adem\Desktop\sebo deneme\s1\s1\obj\Debug\s1.csproj.CoreCompileInputs.cache
+C:\Users\adem\Desktop\sebo deneme\s1\s1\obj\Debug\s1.exe
+C:\Users\adem\Desktop\sebo deneme\s1\s1\obj\Debug\s1.pdb
+C:\Users\adem\Desktop\sebo deneme\s1\s1\bin\Debug\s1.exe.config
+C:\Users\adem\Desktop\sebo deneme\s1\s1\bin\Debug\s1.exe
+C:\Users\adem\Desktop\sebo deneme\s1\s1\bin\Debug\s1.pdb
+C:\Users\sebnem\Downloads\adem in yolladığı\sebo deneme\s1\s1\bin\Debug\s1.exe.config
+C:\Users\sebnem\Downloads\adem in yolladığı\sebo deneme\s1\s1\bin\Debug\s1.exe
+C:\Users\sebnem\Downloads\adem in yolladığı\sebo deneme\s1\s1\bin\Debug\s1.pdb
+C:\Users\sebnem\Downloads\adem in yolladığı\sebo deneme\s1\s1\obj\Debug\s1.csproj.AssemblyReference.cache
+C:\Users\sebnem\Downloads\adem in yolladığı\sebo deneme\s1\s1\obj\Debug\s1.Form1.resources
+C:\Users\sebnem\Downloads\adem in yolladığı\sebo deneme\s1\s1\obj\Debug\s1.Form2.resources
+C:\Users\sebnem\Downloads\adem in yolladığı\sebo deneme\s1\s1\obj\Debug\s1.Properties.Resources.resources
+C:\Users\sebnem\Downloads\adem in yolladığı\sebo deneme\s1\s1\obj\Debug\s1.csproj.GenerateResource.cache
+C:\Users\sebnem\Downloads\adem in yolladığı\sebo deneme\s1\s1\obj\Debug\s1.csproj.CoreCompileInputs.cache
+C:\Users\sebnem\Downloads\adem in yolladığı\sebo deneme\s1\s1\obj\Debug\s1.exe
+C:\Users\sebnem\Downloads\adem in yolladığı\sebo deneme\s1\s1\obj\Debug\s1.pdb
+C:\Users\sebnem\OneDrive\Masaüstü\22.11.ismek ödev\sebo1\s1\s1\bin\Debug\s1.exe.config
+C:\Users\sebnem\OneDrive\Masaüstü\22.11.ismek ödev\sebo1\s1\s1\bin\Debug\s1.exe
+C:\Users\sebnem\OneDrive\Masaüstü\22.11.ismek ödev\sebo1\s1\s1\bin\Debug\s1.pdb
+C:\Users\sebnem\OneDrive\Masaüstü\22.11.ismek ödev\sebo1\s1\s1\obj\Debug\s1.csproj.AssemblyReference.cache
+C:\Users\sebnem\OneDrive\Masaüstü\22.11.ismek ödev\sebo1\s1\s1\obj\Debug\s1.Form1.resources
+C:\Users\sebnem\OneDrive\Masaüstü\22.11.ismek ödev\sebo1\s1\s1\obj\Debug\s1.Form2.resources
+C:\Users\sebnem\OneDrive\Masaüstü\22.11.ismek ödev\sebo1\s1\s1\obj\Debug\s1.Properties.Resources.resources
+C:\Users\sebnem\OneDrive\Masaüstü\22.11.ismek ödev\sebo1\s1\s1\obj\Debug\s1.csproj.GenerateResource.cache
+C:\Users\sebnem\OneDrive\Masaüstü\22.11.ismek ödev\sebo1\s1\s1\obj\Debug\s1.csproj.CoreCompileInputs.cache
+C:\Users\sebnem\OneDrive\Masaüstü\22.11.ismek ödev\sebo1\s1\s1\obj\Debug\s1.exe
+C:\Users\sebnem\OneDrive\Masaüstü\22.11.ismek ödev\sebo1\s1\s1\obj\Debug\s1.pdb
